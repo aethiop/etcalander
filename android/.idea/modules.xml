@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-826623694/@react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-826623694/@react-native-community_async-storage.iml" group="Calendar/@react-native-community_async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Calendar.iml" filepath="$PROJECT_DIR$/.idea/modules/Calendar.iml" group="Calendar" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Calendar/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-826623694/react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-826623694/react-native-community_async-storage.iml" group="Calendar/react-native-community_async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1016546129/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1016546129/react-native-community_masked-view.iml" group="Calendar/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/468672264/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/468672264/react-native-gesture-handler.iml" group="Calendar/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/310793207/react-native-get-random-values.iml" filepath="$PROJECT_DIR$/.idea/modules/310793207/react-native-get-random-values.iml" group="Calendar/react-native-get-random-values" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/815293914/react-native-navigation.iml" filepath="$PROJECT_DIR$/.idea/modules/815293914/react-native-navigation.iml" group="Calendar/react-native-navigation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1817708012/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1817708012/react-native-reanimated.iml" group="Calendar/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/73848177/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/73848177/react-native-safe-area-context.iml" group="Calendar/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-975692087/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-975692087/react-native-screens.iml" group="Calendar/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-368421426/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-368421426/react-native-vector-icons.iml" group="Calendar/react-native-vector-icons" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/164295404/react-native-view-overflow.iml" filepath="$PROJECT_DIR$/.idea/modules/164295404/react-native-view-overflow.iml" group="Calendar/react-native-view-overflow" />
+    </modules>
+  </component>
+</project>
